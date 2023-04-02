@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JetpackNav</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urlLion">https://m.jumpstart.com/JumpstartNew/Dreamworks/Images/MAD_Bio_Images/Alex_bio_01.png</string>
+    <string name="urlZebra">https://m.jumpstart.com/JumpstartNew/Dreamworks/Images/MAD_Bio_Images/Marty_bio_02.png</string>
+    <string name="urlMouse">https://static.wikia.nocookie.net/penguinsofmadagascar/images/f/f8/Ahkjmort.png/revision/latest?cb=20190727144938</string>
+
+    <string name="fullDescLion">Alex is extremely conservative. His future was set from the moment he was born. “Silver spoon syndrome” squared. Having been born into a privileged life, he never had to prove himself. Alex has never had to work a day in his life, and the idea of work is absolutely repugnant to him!</string>
+    <string name="fullDescZebra">Marty is the guy that everybody loves to be around. He has always made friends easily because he has a way of making others feel good about themselves.</string>
+    <string name="fullDescMouse">Wacky, outlandish, and mostly annoying, King Julien ensures that the entertainment never stops!</string>
+
+</resources>
